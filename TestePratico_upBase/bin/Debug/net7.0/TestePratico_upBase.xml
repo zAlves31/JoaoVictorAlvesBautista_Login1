@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TestePratico_upBase</name>
+    </assembly>
+    <members>
+        <member name="T:TestePratico_upBase.Migrations.Bd1">
+            <inheritdoc />
+        </member>
+        <member name="M:TestePratico_upBase.Migrations.Bd1.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:TestePratico_upBase.Migrations.Bd1.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:TestePratico_upBase.Migrations.Bd1.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
