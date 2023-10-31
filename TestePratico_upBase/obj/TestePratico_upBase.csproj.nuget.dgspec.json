@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\52546124870\\Desktop\\TestePratico_upBase\\TestePratico_upBase.csproj": {}
+    "C:\\Users\\52546124870\\Desktop\\Api.Cadastro-de-Alunos\\TestePratico_upBase\\TestePratico_upBase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\52546124870\\Desktop\\TestePratico_upBase\\TestePratico_upBase.csproj": {
+    "C:\\Users\\52546124870\\Desktop\\Api.Cadastro-de-Alunos\\TestePratico_upBase\\TestePratico_upBase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\52546124870\\Desktop\\TestePratico_upBase\\TestePratico_upBase.csproj",
+        "projectUniqueName": "C:\\Users\\52546124870\\Desktop\\Api.Cadastro-de-Alunos\\TestePratico_upBase\\TestePratico_upBase.csproj",
         "projectName": "TestePratico_upBase",
-        "projectPath": "C:\\Users\\52546124870\\Desktop\\TestePratico_upBase\\TestePratico_upBase.csproj",
+        "projectPath": "C:\\Users\\52546124870\\Desktop\\Api.Cadastro-de-Alunos\\TestePratico_upBase\\TestePratico_upBase.csproj",
         "packagesPath": "C:\\Users\\52546124870\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\52546124870\\Desktop\\TestePratico_upBase\\obj\\",
+        "outputPath": "C:\\Users\\52546124870\\Desktop\\Api.Cadastro-de-Alunos\\TestePratico_upBase\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\52546124870\\AppData\\Roaming\\NuGet\\NuGet.Config",

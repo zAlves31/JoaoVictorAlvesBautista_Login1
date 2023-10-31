@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FCfyDfFGov+m3NC/l8Al8hJUyfd38mvJb1ap5/eqNdRq9m/HQVk8I4yYYcy8toae+X5Bm2PXzJJCbjNzlcTT7g==",
+  "dgSpecHash": "ijDYOS+uBgaYzU0Ka6D5IAbGGcZXorYNg0p70Z9YGzcEeV2n0/eADu0OP4NfWIXRRoJs6j+Ua/N1hIEJtmQaYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\52546124870\\Desktop\\TestePratico_upBase\\TestePratico_upBase.csproj",
+  "projectFilePath": "C:\\Users\\52546124870\\Desktop\\Api.Cadastro-de-Alunos\\TestePratico_upBase\\TestePratico_upBase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\52546124870\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\52546124870\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
