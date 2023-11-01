@@ -4,6 +4,76 @@
         <name>TestePratico_upBase</name>
     </assembly>
     <members>
+        <member name="M:TestePratico_upBase.Controllers.AlunoController.Post(TestePratico_upBase.Domains.Aluno)">
+            <summary>
+            Endpoint que aciona o metodo cadastrar Aluno
+            </summary>
+            <param name="aluno"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TestePratico_upBase.Controllers.AlunoController.Get">
+            <summary>
+            Endpoint que aciona o metodo listar Aluno
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TestePratico_upBase.Controllers.AlunoController.Delete(System.Guid)">
+            <summary>
+            Endpoint que aciona o metodo deletar Aluno
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TestePratico_upBase.Controllers.AlunoController.Put(System.Guid,TestePratico_upBase.Domains.Aluno)">
+            <summary>
+            Endpoint que aciona o metodo atualizar Aluno
+            </summary>
+            <param name="id"></param>
+            <param name="aluno"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TestePratico_upBase.Controllers.TiposUsuarioController.Post(TestePratico_upBase.Domains.TiposUsuario)">
+            <summary>
+            Endpoint que aciona o metodo cadastrar TipoUsuario
+            </summary>
+            <param name="tiposUsuario"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TestePratico_upBase.Controllers.TiposUsuarioController.Get">
+            <summary>
+            Endpoint que aciona o metodo listar TipoUsuario
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TestePratico_upBase.Controllers.TiposUsuarioController.Delete(System.Guid)">
+            <summary>
+            Endpoint que aciona o metodo deletar TipoUsuario
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TestePratico_upBase.Controllers.UsuarioController.Post(TestePratico_upBase.Domains.Usuario)">
+            <summary>
+            Endpoint que aciona o metodo cadastrar Usuario
+            </summary>
+            <param name="usuario"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TestePratico_upBase.Controllers.UsuarioController.BuscarPorId(System.Guid)">
+            <summary>
+            Endpoint que aciona o metodo Buscar por Id do Usuario
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TestePratico_upBase.Controllers.UsuarioController.BuscarPorEmailESenha(System.String,System.String)">
+            <summary>
+            Endpoint que aciona o metodo buscar por email e senha do Usuario
+            </summary>
+            <param name="email"></param>
+            <param name="senha"></param>
+            <returns></returns>
+        </member>
         <member name="T:TestePratico_upBase.Migrations.Bd1">
             <inheritdoc />
         </member>
